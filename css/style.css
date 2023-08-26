@@ -1,9 +1,39 @@
-body {
-    background-color: black;
-    color: #F6F6F6;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
 }
 
-strong {
-    color: #22d4fd
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: #F6F6F6;
+}
+
+.title-highlighting {
+    color: #22D4FD
+}
+
+.presentation {
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.presentation__content {
+    width: 615;
+    height: 482;
+}
+
+.presentation__content__title {
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.presentation__content__paragraph {
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
 }
