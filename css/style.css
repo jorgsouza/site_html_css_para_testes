@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Roboto&display=swap');
 
 * {
     margin: 0;
@@ -17,14 +17,18 @@ body {
 }
 
 .presentation {
-    margin: 10%;
+    margin: 10% 15%;
     display: flex;
+    gap: 5%;
     align-items: center;
     justify-content: space-between;
 }
 
 .presentation__content {
     width: 615;
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
     height: 482;
 }
 
@@ -34,6 +38,31 @@ body {
 }
 
 .presentation__content__paragraph {
-    font-size: 24px;
+    font-size: 20px;
     font-family: 'Montserrat', sans-serif;
+}
+
+.presentation__links {
+    display: flex;
+    justify-content: space-between;
+    gap: 5%;
+}
+
+.presentation__links__link {
+    background-color: #22D4FD;
+    width: 280px;
+    height: 79;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 21.5px 0;    
+    text-decoration: none;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.img {
+    max-width: 40%;
+    height: auto;
 }
