@@ -8,6 +8,10 @@
 
 .presentation__links__link {
     /* background-color: #22D4FD; */
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
     width: 378px;
     height: 79;
     text-align: center;
