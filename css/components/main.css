@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Roboto&display=swap');
+
 @import url(body.css);
 @import url(img.css);
 @import url(presentation.css);
+@import url(presentation__links.css);
+@import url(presentantion__links__h2.css);
 @import url(style.css);
 @import url(title.css);
