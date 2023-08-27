@@ -1,6 +1,6 @@
 .footer {
-    color: black;
-    background-color: #22D4FD;
+    color: var(--main-color);
+    background-color: var(--tertiary-color);
     padding: 18px;
     text-align: center;
     font-family: "Montserrat" sans-serif;

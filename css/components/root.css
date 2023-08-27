@@ -1,0 +1,8 @@
+:root {
+    --main-color: black;
+    --secondary_color: #F6F6F6;
+    --tertiary-color: #22D4Fd;
+    /* --tertiary-color: #69eed8; */
+    --background-color: black;
+    --hover-color: #272727;
+}

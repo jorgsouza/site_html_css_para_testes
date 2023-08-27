@@ -1,5 +1,6 @@
+
 body {
     box-sizing: border-box;
-    background-color: black;
-    color: #F6F6F6;
+    background-color: var(--background-color);
+    color: var(--secondary_color);
 }
