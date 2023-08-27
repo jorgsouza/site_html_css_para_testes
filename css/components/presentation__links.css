@@ -24,3 +24,7 @@
     border: 2px outset #22D4FD;
     font-family: 'Montserrat', sans-serif;
 }
+
+.presentation__links__link:hover{
+    background-color: #272727;
+}
