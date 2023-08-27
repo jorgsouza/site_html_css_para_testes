@@ -1,6 +1,6 @@
 .presentation__content {
-    width: 615px;
-    height: 482px;
+    width: 615;
+    height: 482;
     display: flex;
     gap: 40px;
     flex-direction: column;
