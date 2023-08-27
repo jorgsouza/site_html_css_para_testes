@@ -1,21 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Roboto&display=swap');
-
-* {
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    height: 100vh;
-    box-sizing: border-box;
-    background-color: black;
-    color: #F6F6F6;
-}
-
-.title-highlighting {
-    color: #22D4FD
-}
-
 .presentation {
     margin: 10% 15%;
     display: flex;
@@ -60,9 +42,4 @@ body {
     text-decoration: none;
     color: black;
     font-family: 'Montserrat', sans-serif;
-}
-
-.img {
-    max-width: 40%;
-    height: auto;
 }
