@@ -5,4 +5,7 @@
     /* --tertiary-color: #69eed8; */
     --background-color: black;
     --hover-color: #272727;
+
+    --montserrat-font: 'Montserrat', sans-serif;
+    --roboto-font: 'Roboto', sans-serif;
 }

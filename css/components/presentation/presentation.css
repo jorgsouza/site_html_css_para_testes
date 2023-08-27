@@ -16,10 +16,10 @@
 
 .presentation__content__title {
     font-size: 36px;
-    font-family: 'Roboto', sans-serif;
+    font-family: var(--roboto-font);
 }
 
 .presentation__content__paragraph {
     font-size: 20px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: var(--montserrat-font);
 }
