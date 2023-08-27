@@ -7,7 +7,6 @@
 }
 
 .presentation__links__link {
-    /* background-color: #22D4FD; */
     display:flex;
     align-items: center;
     justify-content: center;
@@ -16,7 +15,7 @@
     height: 79;
     text-align: center;
     border-radius: 8px;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 600;
     padding: 21.5px 0;    
     text-decoration: none;
