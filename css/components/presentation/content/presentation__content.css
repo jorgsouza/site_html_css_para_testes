@@ -1,0 +1,7 @@
+.presentation__content {
+    width: 615;
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+    height: 482;
+}

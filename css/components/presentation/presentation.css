@@ -5,21 +5,3 @@
     align-items: center;
     justify-content: space-between;
 }
-
-.presentation__content {
-    width: 615;
-    display: flex;
-    gap: 40px;
-    flex-direction: column;
-    height: 482;
-}
-
-.presentation__content__title {
-    font-size: 36px;
-    font-family: var(--roboto-font);
-}
-
-.presentation__content__paragraph {
-    font-size: 20px;
-    font-family: var(--montserrat-font);
-}
