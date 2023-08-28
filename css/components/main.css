@@ -3,9 +3,6 @@
 /* body */
 @import url(./body/body.css);
 
-/* documentt_img */
-@import url(./document_img/img.css);
-
 /* footer */
 @import url(./footer/footer.css);
 /* for_all_document */
@@ -19,6 +16,9 @@
 /* presentation */
 @import url(./presentation/presentation.css);
 @import url(./presentation/title-highlighting.css);
+
+/* pesentation => img */
+@import url(./presentation/img/presentation__img.css);
 
 /* pesentation => content */
 @import url(./presentation/content/presentation__content__paragraph.css);
