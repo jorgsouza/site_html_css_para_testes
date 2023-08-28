@@ -1,21 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Roboto&family=Roboto+Condensed&display=swap');
 
+/* body */
 @import url(./body/body.css);
-@import url(./for_all_document/for_all_document.css);
-@import url(./footer/footer.css);
-@import url(./header/header.css);
-@import url(./header/header__menu.css);
-@import url(./header/header__menu__link.css);
-@import url(./document_img/img.css);
-@import url(./presentation/presentation.css);
-@import url(./presentation/content/presentation__content.css);
-@import url(./presentation/content/presentation__content__paragraph.css);
-@import url(./presentation/title-highlighting.css);
-@import url(./presentation/links/presentation__links.css);
-@import url(./presentation/links/presentantion__links__h2.css);
-@import url(./body/title-highlighting.css);
 
+/* documentt_img */
+@import url(./document_img/img.css);
+
+/* footer */
+@import url(./footer/footer.css);
+/* for_all_document */
+@import url(./for_all_document/for_all_document.css);
+
+/* header */
+@import url(./header/header__menu__link.css);
+@import url(./header/header__menu.css);
+@import url(./header/header.css);
+
+/* presentation */
+@import url(./presentation/presentation.css);
+@import url(./presentation/title-highlighting.css);
+
+/* pesentation => content */
+@import url(./presentation/content/presentation__content__paragraph.css);
+@import url(./presentation/content/presentation__content__title.css);
+@import url(./presentation/content/presentation__content.css);
+
+/* pesentation => links */
+@import url(./presentation/links/presentantion__links__h2.css);
+@import url(./presentation/links/presentation__links.css);
 
 /* variables */
-@import url(./root.css);
-
+@import url(./root/root.css);
