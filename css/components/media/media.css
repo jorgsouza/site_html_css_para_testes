@@ -1,4 +1,12 @@
 @media (max-width: 1200px) {
+    .header {
+        padding: 6%;
+    }
+
+    .header__menu {
+        justify-content: center;
+    }
+    
     .presentation {
         flex-direction: column-reverse
     }
