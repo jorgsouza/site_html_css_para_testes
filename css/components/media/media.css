@@ -9,6 +9,11 @@
 
     .presentation {
         flex-direction: column-reverse;
+        padding: auto;
+    }
+
+    .presentation__content {
+        width: auto;
     }
 
     .presentation__links__navigation {
