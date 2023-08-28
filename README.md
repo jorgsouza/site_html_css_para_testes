@@ -7,9 +7,9 @@ Este repositório contém uma página simples construída com HTML e CSS, utiliz
 Conclui apenas a etapa de construção de duas páginas apenas utilziando CSS e HTML *28.08.2023*.
 
 ## Backlog
-    [x] Construção de uma página simples em HTML + CSS
-    [x] Deploy do site teste na Vercel
-    [ ] Estudar a documentação do Astro, link da documentação no tópico sobre Astro 
+    - [x] Construção de uma página simples em HTML + CSS
+    - [x] Deploy do site teste na Vercel
+    - [ ] Estudar a documentação do Astro, link da documentação no tópico sobre Astro 
 
 ## Sobre o Astro
 
