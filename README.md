@@ -1,39 +1,39 @@
-# Teste de CSS e HTML com Astro e Vercel
+# Testing CSS and HTML with Astro and Vercel
 
-Este repositório contém uma página simples construída com HTML e CSS, utilizando o framework Astro, e hospedada no Vercel. O objetivo é testar e validar o comportamento do Astro em relação ao processamento de CSS e HTML.
+This repository contains a simple page built with HTML and CSS, using the Astro framework, and hosted on Vercel. The aim is to test and validate Astro's behavior in relation to CSS and HTML processing.
 
-## Diário
+## Diary
 
-Conclui apenas a etapa de construção de duas páginas apenas utilziando CSS e HTML *28.08.2023*.
+Completed only the stage of building two pages using CSS and HTML *28.08.2023*.
 
 ## Backlog
-- [x] Construção de uma página simples em HTML + CSS
-- [x] Deploy do site teste na Vercel
-- [ ] Estudar a documentação do Astro, link da documentação no tópico sobre Astro 
+- [x] Construction of a simple page in HTML + CSS
+- [x] Deploy test site on Vercel
+- [ ] Study the Astro documentation, link to the documentation in the Astro topic 
 
-## Sobre o Astro
+## About Astro
 
-[Astro](https://docs.astro.build/pt-br/getting-started) é um framework moderno para a construção de sites estáticos e dinâmicos, que se concentra em oferecer alto desempenho e desenvolvimento mais produtivo. Ele permite que você escreva componentes em uma variedade de tecnologias, como HTML, CSS, JavaScript e até mesmo Svelte, e compila esses componentes para uma única página otimizada.
+[Astro](https://docs.astro.build/pt-br/getting-started) is a modern framework for building static and dynamic websites, which focuses on delivering high performance and more productive development. It allows you to write components in a variety of technologies, such as HTML, CSS, JavaScript and even Svelte, and compiles these components into a single optimized page.
 
-<!-- ## Como testar localmente
+<!-- ## How to test locally
 
-1. Certifique-se de ter o Node.js instalado em seu computador.
-2. Clone este repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-3. Navegue até o diretório do projeto: `cd nome-do-repositorio`
-4. Instale as dependências: `npm install`
-5. Inicie o servidor de desenvolvimento: `npm run dev`
-6. Acesse o site em seu navegador: `http://localhost:3000` -->
+1. Make sure you have Node.js installed on your computer.
+2. Clone this repository: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+3. Navigate to the project directory: `cd-repository-name`
+4. Install the dependencies: `npm install`
+5. Start the development server: `npm run dev`
+6. Access the site in your browser: `http://localhost:3000` -->
 
-## Deployment no Vercel
+## Deployment on Vercel
 
-Essa página está hospedada na Vercel para que você possa testar seu comportamento online. A Vercel é uma plataforma de hospedagem que simplifica o processo de deploy e oferece escalabilidade e desempenho.
+This page is hosted on Vercel so that you can test its online behavior. Vercel is a hosting platform that simplifies the deployment process and offers scalability and performance.
 
-Você pode acessar a página [clicando aqui](https://jorgesouza.dev.br/).
+You can access the page [by clicking here](https://jorgesouza.dev.br/).
 
-<!-- ## Contribuições
+<!-- ## Contributions
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests se você tiver alguma sugestão, correção de bugs ou melhorias para propor. -->
+Contributions are welcome! Feel free to open issues or pull requests if you have any suggestions, bug fixes or improvements to propose. -->
 
-## Licença
+## License
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE). Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE] file for more details.
