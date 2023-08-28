@@ -13,21 +13,24 @@
 @import url(./header/header__menu.css);
 @import url(./header/header.css);
 
+/* media */
+@import url(media/media.css);
+
 /* presentation */
 @import url(./presentation/presentation.css);
 @import url(./presentation/title-highlighting.css);
 
-/* pesentation => img */
-@import url(./presentation/img/presentation__img.css);
+/* pesentation => section_content */
+@import url(./presentation/section_content/presentation__content__paragraph.css);
+@import url(./presentation/section_content/presentation__content__title.css);
+@import url(./presentation/section_content/presentation__content.css);
 
-/* pesentation => content */
-@import url(./presentation/content/presentation__content__paragraph.css);
-@import url(./presentation/content/presentation__content__title.css);
-@import url(./presentation/content/presentation__content.css);
+/* pesentation => section_img */
+@import url(./presentation/section_img/presentation__img.css);
 
-/* pesentation => links */
-@import url(./presentation/links/presentantion__links__h2.css);
-@import url(./presentation/links/presentation__links.css);
+/* pesentation => section_links */
+@import url(./presentation/section_links/presentantion__links__h2.css);
+@import url(./presentation/section_links/presentation__links.css);
 
 /* variables */
 @import url(./root/root.css);
