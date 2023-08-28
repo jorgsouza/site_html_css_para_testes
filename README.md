@@ -4,18 +4,16 @@ Este repositório contém uma página simples construída com HTML e CSS, utiliz
 
 ## Diário
 
-Conclui apenas a etapa de construção de duas páginas apenas utilziando CSS e HTML
-
+Conclui apenas a etapa de construção de duas páginas apenas utilziando CSS e HTML *28.08.2023*.
 
 ## Backlog
     - [x] Construção de uma página simples em HTML + CSS
-    - [ ] Estudar a documentação do Astro, link da documentação no tópico sobre Astro
+    - [x] Deploy do site teste na Vercel
+    - [ ] Estudar a documentação do Astro, link da documentação no tópico sobre Astro 
 
-    
 ## Sobre o Astro
 
 [Astro](https://docs.astro.build/pt-br/getting-started) é um framework moderno para a construção de sites estáticos e dinâmicos, que se concentra em oferecer alto desempenho e desenvolvimento mais produtivo. Ele permite que você escreva componentes em uma variedade de tecnologias, como HTML, CSS, JavaScript e até mesmo Svelte, e compila esses componentes para uma única página otimizada.
-
 
 <!-- ## Como testar localmente
 
