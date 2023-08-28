@@ -6,8 +6,12 @@
     .header__menu {
         justify-content: center;
     }
-    
+
     .presentation {
-        flex-direction: column-reverse
+        flex-direction: column-reverse;
+    }
+
+    .presentation__links__navigation {
+        width: 100%;
     }
 }
